@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Douglas Vilas Boas 👨🏻‍💻
 
-<!--
-**DouglasVilas/DouglasVilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 
+I' m a web Devoloper, And, I'm studying web development at [ROCKETSEAT](https://app.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+-✅ Main language: `Javascript`
+- 🔥Frontend: `Reactjs`, `HTML5`, `CSS`, `Javascript`
+- 📝 Layout Design : `Figma`
+- 📄 Version code control : `Git e Github`
+- 🔧 Tools: `VsCode`, `Sublime`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
